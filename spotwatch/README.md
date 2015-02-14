@@ -20,7 +20,7 @@ import (
 	"fmt"
 
 	"github.com/awslabs/aws-sdk-go/aws"
-	"github.com/codecombat/infrastructure/spot"
+	"github.com/codecombat/nucleator/spotwatch"
 )
 
 func main() {
